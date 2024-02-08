@@ -1,0 +1,2 @@
+- validate environment variables
+- ask for days off
